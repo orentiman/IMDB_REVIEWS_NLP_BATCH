@@ -1,4 +1,4 @@
-# IMDB review preduction - NLP with LSTM - BATCH pull from files
+# IMDB review preduction - NLP with GlobalAveragePooling - BATCH pull from files
 
 In my project i predicted the sentiment of the text from IMDB reviews: positive, natural and negative.
 
